@@ -5,3 +5,5 @@ Continuous Integration
 [![GitHub release](https://img.shields.io/github/release/padaukwai/REPO.svg)](https://github.com/padaukwai/DevOpsLab2/releases)
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-yellow.svg)](LICENSE)
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
