@@ -1,2 +1,4 @@
 Continuous Integration
 ![workflow](https://github.com/padaukwai/DevOpsLab2/actions/workflows/main.yml/badge.svg)
+[![LICENSE](https://img.shields.io/github/license/padaukwai/sem.svg?style=flat-square)](https://github.com/padaukwai/sem/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/release/<github-username>/sem/all.svg?style=flat-square)](https://github.com/padaukwai/sem/releases)
