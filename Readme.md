@@ -6,4 +6,4 @@ Continuous Integration
 
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
-[![LICENSE](https://img.shields.io/github/license/padaukwai/sem.svg?style=plastic)](https://github.com/padaukwai/sem/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/padaukwai/sem.svg?style=plastic)](https://github.com/padaukwai/DevOpsLab2/blob/master/LICENSE)
