@@ -6,3 +6,6 @@ Continuous Integration
 
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/padaukwai/DevOpsLab2/<action name taken from main.yml>/<branch>?style=flat-square)
+
